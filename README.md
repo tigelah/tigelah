@@ -36,7 +36,6 @@ when I'm not developing and building, I'm learning on Youtube, reading an articl
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-![Rodrigo Oliveira's Github Stats](https://github-readme-stats.vercel.app/api?username=tigelah&show_icons=true&theme=radical)
-![Rodrigo Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigelah&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Rodrigo Oliveira's Github Stats](https://github-readme-stats.vercel.app/api?username=tigelah&show_icons=true&theme=radical&commits_year=2026)
 
 ![Rodrigo Oliveira's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tigelah)
