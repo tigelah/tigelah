@@ -8,7 +8,6 @@ when I'm not developing and building, I'm learning on Youtube, reading an articl
 
 [![GitHub followers](https://img.shields.io/github/followers/tigelah?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/tigelah?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=tigelah&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
-[![Linkedin: tigelah](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/rodrigo-abreu-de-oliveira/)
  <a href="=https://www.linkedin.com/in/rodrigo-abreu-de-oliveira/" target="blank" height="25" >
       <img  src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
 </div>
