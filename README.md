@@ -6,7 +6,7 @@ when I'm not developing and building, I'm learning on Youtube, reading an articl
 ### 📫 Contacts
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/s4il21?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/tigelah?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/tigelah?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/tigelah?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=tigelah&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
 [![Linkedin: tigelah](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-abreu-de-oliveira/)](https://www.linkedin.com/in/rodrigo-abreu-de-oliveira/)
 </div>
